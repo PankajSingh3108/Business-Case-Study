@@ -52,8 +52,4 @@ ShopKart, a mid-sized e-commerce platform, experienced a 15% drop in sales over 
 | Cart Abandonment Rate    | 70%      | <55%   |
 | Sales Growth YoY         | -15%     | +5%    |
 
-## Author
 
-[Your Name]  
-Connect on LinkedIn: https://www.linkedin.com/in/YOURPROFILE  
-Download on GitHub: https://github.com/YOURUSERNAME/sales-drop-case-study
